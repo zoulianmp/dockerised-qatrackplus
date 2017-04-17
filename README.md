@@ -37,7 +37,7 @@ Log out and log back in then run the following to see that everything is working
     
 ### Downloading and installing Dockerised QATrack+ (0.3.0-dev version)
 
-    git clone https://SimonGBiggs@bitbucket.org/SimonGBiggs/qatrackplus.git
+    git clone https://github.com/SimonBiggs/dockerised-qatrackplus.git
     
     cd qatrackplus
     
@@ -62,5 +62,14 @@ Go to http://localhost in browser.
 Coming soon...
 
 ### Restore database from file
+
+Coming soon...
+
+
+## Windows Instructions
+
+Coming soon...
+
+## OSX Instructions
 
 Coming soon...
